@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2023 someone5678
+  SPDX-License-Identifier: GPL-3.0-or-later
+  License-Filename: LICENSE
+-->
+<resources>
+    <string name="settings_title">إعدادات متقدمة</string>
+    <string name="more_settings_title">@string/settings_title</string>
+    <string name="more_settings_subtitle">التشغيل والإيقاف التلقائي والمزيد</string>
+    <string name="onepod_mode_title">وضع OnePod</string>
+    <string name="onepod_mode_summary">تفعيل عناصر التحكم في التشغيل الصوتي حتى عند استخدام AirPod واحد.</string>
+    <string name="auto_play_title">تشغيل تلقائي</string>
+    <string name="auto_play_summary">عند ارتداء AirPods، يبدأ تشغيل الصوت تلقائيًا.</string>
+    <string name="auto_pause_title">إيقاف مؤقت تلقائي</string>
+    <string name="auto_pause_summary">عند إزالة AirPods، يتوقف تشغيل الصوت مؤقتًا.</string>
+</resources>
